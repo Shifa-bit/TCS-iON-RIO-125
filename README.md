@@ -63,7 +63,9 @@ Some of the most popular machine learning algorithms for creating text classific
 - Data Sets from any open source data sources can be used. Model building and solution engineering is NOT restricted to data.
 - Example:
 https://ai.stanford.edu/~amaas/data/sentiment/
+
 https://data.world/crowdflower/sentiment-analysis-in-text
+
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
     
