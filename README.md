@@ -54,10 +54,10 @@ Some of the most popular machine learning algorithms for creating text classific
 4. With these results, a performance metrics is built, that are useful for a quick assessment on how well a classifier works.
 
 **Performance metrics normally includes:**
-- Accuracy: the percentage of texts that were predicted with the correct tag.
-- Precision: the percentage of examples the classifier got right out of the total number of examples that it predicted for a given tag.
-- Recall: the percentage of examples the classifier predicted for a given tag out of the total number of examples it should have predicted for that given tag.
-- F1 Score: the harmonic mean of precision and recall.
+- **Accuracy:** the percentage of texts that were predicted with the correct tag.
+- **Precision:** the percentage of examples the classifier got right out of the total number of examples that it predicted for a given tag.
+- **Recall:** the percentage of examples the classifier predicted for a given tag out of the total number of examples it should have predicted for that given tag.
+- **F1 Score:** the harmonic mean of precision and recall.
 
 # Data Sources to solve problem
 - Data Sets from any open source data sources can be used. Model building and solution engineering is NOT restricted to data.
