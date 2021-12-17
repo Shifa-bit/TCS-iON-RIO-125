@@ -2,7 +2,6 @@
 Automate Emotion Analysis of Textual Comments and Feedback.
 # Project Description:
 **Project Objective & Brief:** To develop a deep learning algorithms with an aim to detect different types of emotion contained in a collection of English sentences or a large paragraph and accurately predict the overall emotion of the paragraph.
-
 **Project Guidelines:** 
 1. Identitfy and finalize a collection of English text, sentence or large paragraphs covering emotions like happy, sad, expressing love, anger or surprise.
 2. Develop a deep learning model for detection & segmentation of emotions contained in the text, sentence or paragraph.
